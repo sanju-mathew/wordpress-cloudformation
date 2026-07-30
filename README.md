@@ -179,3 +179,7 @@ README.md
 A detailed walkthrough of this project is available on my blog:
 
 https://homelab.sanjuprojects.uk/serverless%E2%80%91ready-wordpress-on-aws-via-cloudformation/
+
+# WordPress on AWS with CloudFormation
+
+**Tech Stack:** AWS • CloudFormation • EC2 • Auto Scaling • ALB • EFS • RDS • IAM
