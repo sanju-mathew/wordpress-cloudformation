@@ -134,7 +134,7 @@ After deployment I verified:
 
 ---
 
-## Lessons Learned
+## Engineering Outcomes
 
 This project helped me develop practical experience with:
 
